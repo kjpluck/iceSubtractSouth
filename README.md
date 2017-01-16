@@ -1,5 +1,5 @@
-# iceSubtract
-Animation showing difference in antartic ice cover between 1979 and 2016
+# iceSubtractSouth
+Animation showing difference in antarctic ice cover between 1979 and 2016
 
 Data required:
 
